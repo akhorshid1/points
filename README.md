@@ -1,5 +1,4 @@
-# Points - Assignment for R&D Senior Data Scientist
-## Multi-Armed Bandit / Contextual Bandit Simulation
+# Multi-Armed Bandit / Contextual Bandit Simulation
 
 1. Optional
     * Setup a virtual environment: `python -m venv .venv`
